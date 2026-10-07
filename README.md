@@ -14,6 +14,7 @@ Principais resultados
 - GI: de −4,212 a 8,985.
 - IPPRA: de 0 a 100.
 Arquivos do repositório
+- requirements.txt: bibliotecas necessárias.
 - Analise_IPPRA_.ipynb: notebook com o fluxo completo da análise principal.
 - dataset_IPPRA.xlsx: planilha de entrada com os 90 registros e os 23 indicadores.
 - crosswalk_municipios_IPPRA_1.xlsx: planilha de correspondência municipal que documenta a relação entre os identificadores usados no estudo.
